@@ -13,4 +13,4 @@ How to use
 
 4. Now select all the .psd file and hit enter.
 
-All your .file get saved in the same folder where all the .psd is present.
+All your .png file get saved in the same folder where all the .psd is present.
