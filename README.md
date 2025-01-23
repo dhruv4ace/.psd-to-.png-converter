@@ -1,6 +1,5 @@
 # .psd-to-.png-converter
 
-This Script is for PhotoShop
 This script helps on converting multiple .psd file into .png
 
 How to use
